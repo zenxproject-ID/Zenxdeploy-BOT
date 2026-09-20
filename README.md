@@ -18,7 +18,11 @@ git clone https://github.com/zenxproject-ID/Zenxdeploy-BOT
 
 cd Zenxdeploy-BOT
 
-npm install
+nano config.js
+
+(lu setting token bot Ama id telegram lu sendiri)
+
+npm install debug
 
 npm start
 
