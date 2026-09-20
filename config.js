@@ -1,11 +1,11 @@
 module.exports = {
-    BOT_TOKEN: '8976883381:AAHsOKtiKBixAsClcOy-PTYUktB72bNiuqE',
+    BOT_TOKEN: 'ISI dengan token tele lu mekk',
     VERCEL_TOKEN: 'vcp_0v0MECRquryjBzDaYpsiGsdBsHziVxcDp0Qpaz52qMc6ClLWgD1EtGte',
     CHANNEL_USERNAME: '@metaphora1',
     CHANNEL_USERNAME2: '@ikiiforque2', 
     GROUP_USERNAME: '@ikiipublic', // GANTI DENGAN USERNAME GRUP ANDA
     DEVELOPER_USERNAME: '@Zhenxs',
-    ADMIN_USERS: [8560189215],
+    ADMIN_USERS: [LU isi ID tele lu mekk],
     MAX_FILE_SIZE: 20 * 1024 * 1024,
     ALLOWED_EXTENSIONS: ['.html'],
     
