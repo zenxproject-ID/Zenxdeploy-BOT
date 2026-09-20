@@ -1,0 +1,22 @@
+{
+  "name": "bot-deploy-website",
+  "version": "2.0.0",
+  "description": "Bot Telegram untuk deploy website gratis ke Vercel",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "node-fetch": "^2.7.0"
+  },
+  "keywords": [
+    "telegram-bot",
+    "deploy",
+    "vercel",
+    "website"
+  ],
+  "author": "ND!CZZ",
+  "license": "MIT"
+}
